@@ -19,7 +19,11 @@ header {
    
 }
 nav {
+<<<<<<< HEAD
   background-color: red;
+=======
+  background-color: #C71585;
+>>>>>>> 0e5614b6e33645f138185782930f3023ba07e819
   margin-top: 10px;
   margin-bottom: 0px;
   margin-right: 60px;
